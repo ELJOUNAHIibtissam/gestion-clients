@@ -1,0 +1,28 @@
+{
+  "client": [
+    {
+      "id": 1,
+      "name": "eljounahi",
+      "email": "eljounahi@gmail.com",
+      "tele": "0615256362"
+    },
+    {
+      "id": 2,
+      "name": "test",
+      "email": "ibtissam.eljounahi@gmail.com",
+      "tele": "0615256362"
+    },
+    {
+      "id": 4,
+      "name": "test2",
+      "email": "ttest@gmail.com",
+      "tele": "0615256362"
+    },
+    {
+      "id": 5,
+      "name": "ahmed",
+      "email": "ibtissam.eljounahi@gmail.com",
+      "tele": "0615256362"
+    }
+  ]
+}
