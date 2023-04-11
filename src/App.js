@@ -10,7 +10,7 @@ import EditClient from "./EditClient";
 function App() {
   return (
     <div className="App">
-      <h1>app crud gestion clients</h1>
+      <h1>App CRUD gestion clients</h1>
       <BrowserRouter>
         <Routes>
           <Route path="/" element={<ClientListing />}></Route>

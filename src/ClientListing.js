@@ -42,7 +42,7 @@ const ClientListing = () => {
       <div className="card">
         <div className="card-title ">
           <h2 className="text-decoration-underline" >
-            <img src="/list.png" ></img>
+            <img src="/list.png" className="img" ></img>
             clients listing</h2>
         </div>
         <div className="card-body">
